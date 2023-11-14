@@ -1,0 +1,51 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+   margin: 0px;
+   width: 100%;
+   font-size: 25px;
+   font-weight: bold;
+   color: darkblue;
+}
+
+.note
+{
+  font-size: 15px;
+  color : white;
+}
+
+#Start
+{
+    box-shadow: 7px 7px 7px rgb(172, 234, 117);
+    font-size: 20px;
+}
+
+#object_found
+{
+    box-shadow: 7px 7px 7px rgb(234, 183, 117);
+}
+
+#status
+{
+    box-shadow: 7px 7px 7px rgb(234, 152, 117);
+}
+
+.input
+{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    border: 4px dashed grey;
+}
+
+canvas
+{
+    border-radius: 20px;
+    border: 5px solid lightsteelblue;
+    box-shadow: 5px 5px 5px lightsteelblue;
+}
